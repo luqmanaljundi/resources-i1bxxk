@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luqmanaljundi.github.io/resources-i1bxxk/sitemap.xml
